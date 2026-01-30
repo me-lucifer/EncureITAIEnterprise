@@ -1,0 +1,24 @@
+# Research files (not for GitHub)
+research/
+*.md.backup
+
+# BMAD framework files (internal only)
+_bmad/
+.agent/
+
+# IDE and system files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Original strategy report (superseded by detailed docs)
+AI_Governance_Strategy_Report.md
