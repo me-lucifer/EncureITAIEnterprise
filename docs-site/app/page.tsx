@@ -9,6 +9,11 @@ export default function Home() {
           AI Data Governance & Security Practice - Strategic Plan
         </p>
 
+        <div className="flex space-x-4 text-sm text-gray-500 mb-4">
+          <p><strong>Date:</strong> October 30, 2025</p>
+          <p><strong>Author:</strong> Team Aniket</p>
+        </div>
+
         <div className="bg-blue-50 border-l-4 border-blue-500 p-4 my-6">
           <p className="text-sm text-gray-700">
             <strong>📖 What's Inside:</strong> High-level overview of the complete strategic plan including investment requirements (₹50L), expected returns (₹100-150L revenue, 207% ROI), dual-track strategy, and immediate next steps. Perfect for CEO review and leadership approval.
@@ -22,7 +27,7 @@ export default function Home() {
       <section id="opportunity" className="mb-12">
         <h2 className="text-2xl font-semibold text-gray-900 mb-4">The Opportunity</h2>
         <p className="text-gray-700 mb-4">
-          Your CEO is absolutely right: <strong>AI is in its "baby phase" now, but the "maturity phase" is coming fast</strong> (2026-2027). When large enterprises move from experimenting with AI to deploying it at scale, they will demand <strong>governance and security expertise</strong>. Companies that build this capability now will dominate the market.
+          <strong>Strategic Insight:</strong> <strong>AI is in its "baby phase" now, but the "maturity phase" is coming fast</strong> (2026-2027). When large enterprises move from experimenting with AI to deploying it at scale, they will demand <strong>governance and security expertise</strong>. Companies that build this capability now will dominate the market.
         </p>
 
         <div className="grid grid-cols-3 gap-4 my-6">

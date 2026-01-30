@@ -168,7 +168,7 @@ Build proprietary services using open-source tools:
 ## 🚀 Immediate Next Steps
 
 ### Week 1 Actions:
-1. ✅ **Review this strategic plan** with CEO
+1. ✅ **Review this strategic plan** with Leadership
 2. ✅ **Approve ₹50L budget** for Year 1
 3. ✅ **Assign interim Practice Lead** (until AI Security Lead hired)
 4. ✅ **Identify 6 engineers** to reallocate to this practice
@@ -211,11 +211,11 @@ Build proprietary services using open-source tools:
 
 ## 📞 Contact & Approval
 
-**Prepared by:** Strategic Planning Team  
+**Prepared by:** Team Aniket  
 **Date:** January 30, 2026  
-**Status:** Ready for CEO Review and Approval  
+**Status:** Ready for Leadership Review and Approval  
 
-**Next Step:** Schedule review meeting with CEO to discuss and approve plan
+**Next Step:** Schedule review meeting with Leadership to discuss and approve plan
 
 ---
 

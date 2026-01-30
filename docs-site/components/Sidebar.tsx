@@ -86,8 +86,8 @@ export default function Sidebar() {
                             <Link
                                 href={item.href}
                                 className={`flex items-center px-3 py-2 text-sm font-medium rounded-md transition-all ${isActive
-                                        ? 'bg-[#e0f2fe] text-[#0284c7]'
-                                        : 'text-slate-600 hover:bg-slate-100 hover:text-slate-900'
+                                    ? 'bg-[#e0f2fe] text-[#0284c7]'
+                                    : 'text-slate-600 hover:bg-slate-100 hover:text-slate-900'
                                     }`}
                             >
                                 {isActive && (
@@ -120,8 +120,8 @@ export default function Sidebar() {
                         AE
                     </div>
                     <div className="ml-3">
-                        <p className="text-xs font-medium text-slate-900">Amit (EncureIT)</p>
-                        <p className="text-[10px] text-slate-500">Practice Lead</p>
+                        <p className="text-xs font-medium text-slate-900">Team Aniket</p>
+                        <p className="text-[10px] text-slate-500">Strategic Planning</p>
                     </div>
                 </div>
             </div>
